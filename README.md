@@ -148,7 +148,7 @@ save
 
 ![](6.0.%20Grafana%20_%204.%20config%20save.png)
 
-6. kemudian kita akan menggunakan dashboard yang yang dapat kita temukan di sini <- (link download full dashboard node exporter)
+6. kemudian kita akan menggunakan dashboard yang yang dapat kita temukan [disini](https://grafana.com/grafana/dashboards/1860-node-exporter-full/).
 
 7. Import Grafana dashboard. di Home > Dashboards > + Create Dashboard > import. kemudian masukan json yang telah kita download.
 
