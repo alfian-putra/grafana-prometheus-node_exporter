@@ -16,7 +16,7 @@ Grafana Labs is proud to support the development of the Prometheus project by em
 
 - Grafana
 
-Berfungsi sebagai frontend yang bertugas visualizing, query dan alerting data yang disediakan Prometheus. Grafana menyediuakan fleksibilitas untuk customize dashboard serta alerting ke berbagai sumber sepertio telegram, slack, dan email.
+Berfungsi sebagai frontend yang bertugas visualisasi, query dan alerting data yang disediakan Prometheus. Grafana menyediakan fleksibilitas untuk customize dashboard serta alerting ke berbagai sumber sepertio telegram, slack, dan email.
 
 ## Environment
 
